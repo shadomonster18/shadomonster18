@@ -1,4 +1,4 @@
-<h1>Hi, I'm Idan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Electrical Engineer</a>, <a 
+<h1>Hi, I'm Idan! Programmer</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
